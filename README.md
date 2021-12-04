@@ -35,3 +35,5 @@ print("{:.2f}".format(dist))
 
 
 ### RESULT:
+Thus, The distance two 2 points
+
